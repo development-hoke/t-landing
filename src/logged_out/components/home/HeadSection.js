@@ -13,7 +13,6 @@ import {
   withWidth,
   isWidthUp,
 } from "@material-ui/core";
-import WaveBorder from "../../../shared/components/WaveBorder";
 import ZoomImage from "../../../shared/components/ZoomImage";
 
 const styles = (theme) => ({
